@@ -4,6 +4,8 @@
 
 Solavixa System Audio Recorder is a Windows desktop application designed for reliable recording of system audio directly on your computer.
 
+![Solavixa System Audio Recorder](images/SAR_preview.png)
+
 ## Features
 
 - Record Windows system audio
